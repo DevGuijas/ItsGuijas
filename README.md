@@ -21,4 +21,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsGuijas&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsGuijas&hide_progress=true)](https://github.com/ItsGuijas/github-readme-stats)
 </div>
-![Snake animation](https://github.com/ItsGuijas)
